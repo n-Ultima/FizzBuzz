@@ -1,4 +1,4 @@
-for fizzbuzz in range(101):
+for fizzbuzz in range(101): # Iterates through the numbers up to 101.
   if fizzbuzz % 3 == 0:
     print('Fizz')
   if fizzbuzz % 5 == 0:
